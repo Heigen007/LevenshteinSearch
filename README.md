@@ -1,5 +1,5 @@
 # Levenshtein Search
 
-Example of searching for a string in a file using the Levenshtein distance.
+Example of searching for a string in a file using the Levenshtein distance
 
-[Demo]()
+[DEMO](https://levenshtein-search.vercel.app/)
